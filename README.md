@@ -1,7 +1,7 @@
 # How to start the Application
 Highly recomended to use virtual environment
 
-## pip install -r requirements.txt
+## `pip install -r requirements.txt`
 ## To run the test you should use pytest
 ## To see the coverage I have downloaded the pytest coverage plug-in  pytest -cov 
 ## If you need to see the report in html,just write command coverage html
